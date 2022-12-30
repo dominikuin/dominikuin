@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dominikuin
+- 👀 I’m interested in coding (high and low level)
+- 🌱 I’m always learning ...
